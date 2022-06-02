@@ -19,6 +19,7 @@ h1{
 h2{    
     margin-top: 10px;    
     color: #463706;
+    border-color: #463706;
     border-left: dotted;
     border-width: 3px;
     margin: 5px;
@@ -28,8 +29,8 @@ h2{
 h3{    
     font-weight: bold;
     color: #753d2b;    
-    
-    
+    text-align: center;
+    letter-spacing: 1px;
 }
 
 
@@ -56,3 +57,5 @@ nav{
     background-color: #bbee00;
 }
 img{width: 100%;}
+
+br {padding-left: 40px;}
